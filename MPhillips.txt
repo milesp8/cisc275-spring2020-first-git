@@ -1,0 +1,9 @@
+Miles Phillips
+CISC 275 Lab3
+
+##GITHUB INFO###
+
+Username:
+   milesp8
+URL to GitHub repo:
+   https://github.com/milesp8/cisc275-spring2020-first-git     
